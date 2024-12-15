@@ -8,6 +8,7 @@ public class Main{
         scanner.close();
 
         System.out.println(gcd(A, B));
+
     }
     // ユークリッドの互除法による最大公約数の計算
     public static void gcd(long a, long b){
